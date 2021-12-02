@@ -1,4 +1,4 @@
-# Front-end-code-challenge
+# vizzuality-challenge
 
 ![Legend component which is composed of several items, each one with settings such as a toggle button, an info button and a button to collapse the item](assets/images/legend.png)
 
@@ -128,5 +128,4 @@ Good luck!
 
 **“The Challenge” has been created with the sole intention of being used as a guiding document for the current recruitment process. This means we won't be using it (all or parts of it) within our projects.**
 
-# vizzuality-challenge
 # vizzuality-challenge
