@@ -28,21 +28,21 @@ export default function App() {
        return item.type !== "timeline" ?
          (item.type === "basic" ? 
         <Basic
-          key={index}
+          key={item.id}
           name={item.name}
           items={item.items}
           description={item.description}
         />
        : item.type === "choropleth" ? 
         <Choropleth
-          key={index}
+          key={item.id}
           name={item.name}
           items={item.items}
           description={item.description}
         />
        : 
         <Gradient
-          key={index}
+          key={item.id}
           name={item.name}
           items={item.items}
           description={item.description}
